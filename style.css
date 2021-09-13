@@ -1,0 +1,94 @@
+body
+{    
+    margin-left: 0px;
+}
+
+img
+{
+    width: 1345px;
+    height: 600px;
+}
+
+.left-side
+{
+    position: relative;
+    top: -600px;
+}
+
+h2
+{
+    font-family: 'Lobster', cursive;
+    font-size: 60px;
+    font-weight: 700;
+    color: #ff0040;
+    margin-left: 5px;
+}
+
+.headline
+{
+    color: #000066;
+    font-size: 60px;
+    margin-left: 5px;
+}
+
+h3
+{
+    color: tomato;
+    margin-left: 5px;
+}
+
+.subscribe-form
+{
+    margin-left: 5px;
+}
+
+.subscribe-form input
+{
+    height: 25px;
+    width: 280px;
+    border-radius: 5px;
+}
+
+button
+{
+    background-color: #4CAF50;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    margin-top: 5px;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.contact
+{
+    position: relative;
+    top: -1000px;
+    left: 1060px;
+    width: 280px;
+    height: 300px;
+}
+
+.contact h1
+{
+    text-align: center;
+}
+
+.signin-form input
+{
+    height: 35px;
+    width: 250px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.signin-form textarea
+{    
+    width: 250px;
+    border-radius: 5px;
+}
+
+.contact .btn
+{
+    margin-left: 60px;
+}
