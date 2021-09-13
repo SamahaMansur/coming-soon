@@ -122,4 +122,9 @@ button
     {
         width: 300px;
     }
+
+    img
+    {
+        max-width: fit-content;
+    }
 }
