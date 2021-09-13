@@ -116,6 +116,7 @@ button
     .contact .btn
     {
         margin-left: 80%;
+        width: 100px;
     }
 
     .contact h1
@@ -125,6 +126,6 @@ button
 
     img
     {
-        max-width: fit-content;
+        max-width: 100%;
     }
 }
